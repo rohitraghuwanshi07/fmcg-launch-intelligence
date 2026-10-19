@@ -1,0 +1,73 @@
+product_id,product_name,category,subcategory,brand,pack_size,pack_unit,positioning,launch_observed,launch_date
+P001,Nirmal Chips 100g,Biscuits & Snacks,Chips,Nirmal,100,g,mass market,True,2023-03-27
+P002,Kisan Fresh Soft Drinks 1000ml,Beverages & Juices,Soft Drinks,Kisan Fresh,1000,ml,economy,True,2023-02-27
+P003,Aarav Foods Body Wash 100ml,Personal Care,Body Wash,Aarav Foods,100,ml,mass market,True,2023-02-27
+P004,Sunrise Floor Cleaner 500ml,Home Care,Floor Cleaner,Sunrise,500,ml,premium,True,2023-11-27
+P005,Aarav Foods Ready Mixes 100g,Packaged Grocery,Ready Mixes,Aarav Foods,100,g,economy,True,2023-10-30
+P006,Nirmal Curd 1000ml,Dairy & Related,Curd,Nirmal,1000,ml,economy,False,
+P007,Zesto Biscuits 400g,Biscuits & Snacks,Biscuits,Zesto,400,g,mass market,False,
+P008,HomeGlow Fruit Juice 200ml,Beverages & Juices,Fruit Juice,HomeGlow,200,ml,premium,True,2024-01-01
+P009,PureLife Face Wash 50ml,Personal Care,Face Wash,PureLife,50,ml,mass market,True,2023-12-11
+P010,Aarav Foods Dish Wash 1000ml,Home Care,Dish Wash,Aarav Foods,1000,ml,premium,True,2023-06-05
+P011,Kisan Fresh Noodles 250g,Packaged Grocery,Noodles,Kisan Fresh,250,g,premium,True,2023-10-02
+P012,HomeGlow Curd 1000ml,Dairy & Related,Curd,HomeGlow,1000,ml,premium,True,2023-10-30
+P013,Aarav Foods Chips 200g,Biscuits & Snacks,Chips,Aarav Foods,200,g,premium,True,2023-05-01
+P014,Kisan Fresh Fruit Juice 1000ml,Beverages & Juices,Fruit Juice,Kisan Fresh,1000,ml,mass market,False,
+P015,HomeGlow Shampoo 100ml,Personal Care,Shampoo,HomeGlow,100,ml,mass market,True,2023-02-06
+P016,Zesto Laundry 250ml,Home Care,Laundry,Zesto,250,ml,mass market,True,2023-01-09
+P017,Nirmal Noodles 1000g,Packaged Grocery,Noodles,Nirmal,1000,g,economy,True,2023-08-21
+P018,GreenLeaf Paneer 200ml,Dairy & Related,Paneer,GreenLeaf,200,ml,mass market,True,2023-01-23
+P019,HomeGlow Chips 200g,Biscuits & Snacks,Chips,HomeGlow,200,g,economy,True,2023-05-01
+P020,Sunrise Energy Drinks 200ml,Beverages & Juices,Energy Drinks,Sunrise,200,ml,mass market,True,2024-01-29
+P021,Kisan Fresh Face Wash 200ml,Personal Care,Face Wash,Kisan Fresh,200,ml,premium,True,2023-03-13
+P022,PureLife Laundry 1000ml,Home Care,Laundry,PureLife,1000,ml,mass market,True,2023-05-08
+P023,Kisan Fresh Ready Mixes 1000g,Packaged Grocery,Ready Mixes,Kisan Fresh,1000,g,economy,True,2024-03-04
+P024,HomeGlow Curd 200ml,Dairy & Related,Curd,HomeGlow,200,ml,mass market,True,2023-12-18
+P025,Aarav Foods Chips 200g,Biscuits & Snacks,Chips,Aarav Foods,200,g,premium,True,2023-11-06
+P026,HomeGlow Energy Drinks 200ml,Beverages & Juices,Energy Drinks,HomeGlow,200,ml,premium,True,2023-12-04
+P027,GreenLeaf Body Wash 200ml,Personal Care,Body Wash,GreenLeaf,200,ml,premium,True,2023-02-06
+P028,Kisan Fresh Laundry 500ml,Home Care,Laundry,Kisan Fresh,500,ml,premium,True,2023-11-20
+P029,GreenLeaf Spreads 1000g,Packaged Grocery,Spreads,GreenLeaf,1000,g,premium,False,
+P030,PureLife Flavoured Milk 1000ml,Dairy & Related,Flavoured Milk,PureLife,1000,ml,premium,True,2023-05-15
+P031,Zesto Biscuits 100g,Biscuits & Snacks,Biscuits,Zesto,100,g,mass market,True,2024-03-11
+P032,Kisan Fresh Soft Drinks 500ml,Beverages & Juices,Soft Drinks,Kisan Fresh,500,ml,premium,True,2023-01-16
+P033,Nirmal Face Wash 50ml,Personal Care,Face Wash,Nirmal,50,ml,mass market,True,2023-01-23
+P034,GreenLeaf Dish Wash 500ml,Home Care,Dish Wash,GreenLeaf,500,ml,economy,True,2024-03-04
+P035,PureLife Spreads 500g,Packaged Grocery,Spreads,PureLife,500,g,mass market,True,2023-02-06
+P036,HomeGlow Flavoured Milk 1000ml,Dairy & Related,Flavoured Milk,HomeGlow,1000,ml,mass market,True,2024-05-06
+P037,HomeGlow Biscuits 200g,Biscuits & Snacks,Biscuits,HomeGlow,200,g,premium,True,2023-01-09
+P038,Aarav Foods Energy Drinks 500ml,Beverages & Juices,Energy Drinks,Aarav Foods,500,ml,mass market,False,
+P039,Aarav Foods Shampoo 50ml,Personal Care,Shampoo,Aarav Foods,50,ml,premium,True,2023-03-13
+P040,Aarav Foods Laundry 1000ml,Home Care,Laundry,Aarav Foods,1000,ml,mass market,True,2023-09-11
+P041,Kisan Fresh Ready Mixes 500g,Packaged Grocery,Ready Mixes,Kisan Fresh,500,g,mass market,True,2023-01-16
+P042,PureLife Paneer 200ml,Dairy & Related,Paneer,PureLife,200,ml,mass market,False,
+P043,Zesto Chips 50g,Biscuits & Snacks,Chips,Zesto,50,g,mass market,True,2023-09-18
+P044,Kisan Fresh Energy Drinks 500ml,Beverages & Juices,Energy Drinks,Kisan Fresh,500,ml,mass market,True,2024-04-08
+P045,PureLife Face Wash 100ml,Personal Care,Face Wash,PureLife,100,ml,economy,True,2024-05-06
+P046,GreenLeaf Dish Wash 500ml,Home Care,Dish Wash,GreenLeaf,500,ml,mass market,True,2024-04-22
+P047,Nirmal Noodles 250g,Packaged Grocery,Noodles,Nirmal,250,g,premium,True,2023-10-23
+P048,Nirmal Flavoured Milk 500ml,Dairy & Related,Flavoured Milk,Nirmal,500,ml,premium,False,
+P049,Sunrise Chips 200g,Biscuits & Snacks,Chips,Sunrise,200,g,mass market,True,2024-04-08
+P050,Aarav Foods Energy Drinks 1000ml,Beverages & Juices,Energy Drinks,Aarav Foods,1000,ml,mass market,True,2024-03-04
+P051,Sunrise Body Wash 50ml,Personal Care,Body Wash,Sunrise,50,ml,economy,True,2024-02-19
+P052,Aarav Foods Laundry 250ml,Home Care,Laundry,Aarav Foods,250,ml,premium,True,2023-04-17
+P053,PureLife Noodles 250g,Packaged Grocery,Noodles,PureLife,250,g,premium,True,2024-04-22
+P054,HomeGlow Curd 200ml,Dairy & Related,Curd,HomeGlow,200,ml,mass market,True,2023-10-30
+P055,Aarav Foods Namkeen 50g,Biscuits & Snacks,Namkeen,Aarav Foods,50,g,mass market,True,2023-06-12
+P056,Aarav Foods Energy Drinks 1000ml,Beverages & Juices,Energy Drinks,Aarav Foods,1000,ml,mass market,True,2023-10-30
+P057,GreenLeaf Body Wash 200ml,Personal Care,Body Wash,GreenLeaf,200,ml,economy,False,
+P058,Kisan Fresh Laundry 1000ml,Home Care,Laundry,Kisan Fresh,1000,ml,mass market,True,2023-07-31
+P059,Aarav Foods Noodles 1000g,Packaged Grocery,Noodles,Aarav Foods,1000,g,economy,True,2023-08-14
+P060,HomeGlow Flavoured Milk 500ml,Dairy & Related,Flavoured Milk,HomeGlow,500,ml,mass market,True,2024-01-22
+P061,Zesto Chips 50g,Biscuits & Snacks,Chips,Zesto,50,g,economy,True,2024-01-01
+P062,Aarav Foods Energy Drinks 500ml,Beverages & Juices,Energy Drinks,Aarav Foods,500,ml,mass market,True,2023-03-13
+P063,HomeGlow Body Wash 100ml,Personal Care,Body Wash,HomeGlow,100,ml,mass market,True,2024-03-11
+P064,Nirmal Dish Wash 1000ml,Home Care,Dish Wash,Nirmal,1000,ml,mass market,True,2023-05-22
+P065,PureLife Noodles 100g,Packaged Grocery,Noodles,PureLife,100,g,premium,False,
+P066,Aarav Foods Curd 200ml,Dairy & Related,Curd,Aarav Foods,200,ml,premium,True,2023-08-14
+P067,GreenLeaf Biscuits 100g,Biscuits & Snacks,Biscuits,GreenLeaf,100,g,economy,False,
+P068,PureLife Fruit Juice 500ml,Beverages & Juices,Fruit Juice,PureLife,500,ml,economy,False,
+P069,Kisan Fresh Shampoo 200ml,Personal Care,Shampoo,Kisan Fresh,200,ml,mass market,True,2023-12-25
+P070,Nirmal Laundry 1000ml,Home Care,Laundry,Nirmal,1000,ml,premium,True,2023-07-17
+P071,Aarav Foods Spreads 100g,Packaged Grocery,Spreads,Aarav Foods,100,g,economy,False,
+P072,Aarav Foods Flavoured Milk 200ml,Dairy & Related,Flavoured Milk,Aarav Foods,200,ml,mass market,True,2023-05-08

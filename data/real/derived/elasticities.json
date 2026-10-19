@@ -1,0 +1,238 @@
+{
+  "datasets": {
+    "Cracker": {
+      "dataset": "Cracker",
+      "n_obs": 3292,
+      "n_alternatives": 4,
+      "alternatives": [
+        "sunshine",
+        "kleebler",
+        "nabisco",
+        "private"
+      ],
+      "elasticity": -1.753353641352849,
+      "se": 0.3940734461802192,
+      "ci_low": -2.32890458947477,
+      "ci_high": -1.0232469309951284,
+      "price_coef_scaled": -3.0020263016772857,
+      "loglik": -3347.713289603164,
+      "shares": {
+        "sunshine": 0.07260034384631421,
+        "kleebler": 0.0686512062303239,
+        "nabisco": 0.5443498955382026,
+        "private": 0.31439855438516034
+      },
+      "promo": {
+        "disp": {
+          "odds_multiplier": 1.0962742244836132,
+          "coef": 0.09191736205063267,
+          "exposure_share": 0.16851458080194412
+        },
+        "feat": {
+          "odds_multiplier": 1.642346454416433,
+          "coef": 0.49612598415534764,
+          "exposure_share": 0.053462940461725394
+        }
+      },
+      "n_clusters": 136,
+      "n_boot": 40
+    },
+    "Catsup": {
+      "dataset": "Catsup",
+      "n_obs": 2798,
+      "n_alternatives": 4,
+      "alternatives": [
+        "heinz41",
+        "heinz32",
+        "heinz28",
+        "hunts32"
+      ],
+      "elasticity": -3.3643406457180265,
+      "se": 0.18206400734884784,
+      "ci_low": -3.7468877172468202,
+      "ci_high": -3.1090325541036687,
+      "price_coef_scaled": -5.416531059360581,
+      "loglik": -2517.8772512822766,
+      "shares": {
+        "heinz41": 0.06504632879835254,
+        "heinz32": 0.5210851085951345,
+        "heinz28": 0.30414708207349267,
+        "hunts32": 0.10972148053302341
+      },
+      "promo": {
+        "disp": {
+          "odds_multiplier": 2.4004612201794093,
+          "coef": 0.8756608939653895,
+          "exposure_share": 0.06075768406004289
+        },
+        "feat": {
+          "odds_multiplier": 2.4802477818325803,
+          "coef": 0.9083584672152827,
+          "exposure_share": 0.05307362401715511
+        }
+      },
+      "n_clusters": 300,
+      "n_boot": 40
+    },
+    "Ketchup": {
+      "dataset": "Ketchup",
+      "n_obs": 4956,
+      "n_alternatives": 4,
+      "alternatives": [
+        "heinz",
+        "hunts",
+        "delmonte",
+        "stb"
+      ],
+      "elasticity": -3.4356564756112755,
+      "se": 0.11110836663639616,
+      "ci_low": -3.640516331639186,
+      "ci_high": -3.2422824630062004,
+      "price_coef_scaled": -5.337540965002618,
+      "loglik": -4896.746768928375,
+      "shares": {
+        "heinz": 0.5096851524336558,
+        "hunts": 0.20560973308729213,
+        "delmonte": 0.051654523086762535,
+        "stb": 0.23305059139228432
+      },
+      "promo": {},
+      "n_clusters": 1956,
+      "n_boot": 40
+    },
+    "Tuna": {
+      "dataset": "Tuna",
+      "n_obs": 13705,
+      "n_alternatives": 5,
+      "alternatives": [
+        "skw",
+        "cosw",
+        "sko",
+        "coso",
+        "pw"
+      ],
+      "elasticity": -3.3694445426376607,
+      "se": 0.09659741000119101,
+      "ci_low": -3.54809782891516,
+      "ci_high": -3.2134926099364014,
+      "price_coef_scaled": -4.454995114000334,
+      "loglik": -16278.219065235731,
+      "shares": {
+        "skw": 0.44181127415699695,
+        "cosw": 0.1632979021378379,
+        "sko": 0.1779638845235089,
+        "coso": 0.1403133201864315,
+        "pw": 0.07661361899521667
+      },
+      "promo": {},
+      "n_clusters": 3093,
+      "n_boot": 40
+    },
+    "Yogurt": {
+      "dataset": "Yogurt",
+      "n_obs": 2412,
+      "n_alternatives": 4,
+      "alternatives": [
+        "yoplait",
+        "dannon",
+        "hiland",
+        "weight"
+      ],
+      "elasticity": -2.216389693070484,
+      "se": 0.2737577387510458,
+      "ci_low": -2.658000804183411,
+      "ci_high": -1.748894426816237,
+      "price_coef_scaled": -2.9471151633026977,
+      "loglik": -2656.8878779297465,
+      "shares": {
+        "yoplait": 0.33913772485290705,
+        "dannon": 0.40215613063912437,
+        "hiland": 0.029436180085287304,
+        "weight": 0.22926996442268088
+      },
+      "promo": {
+        "feat": {
+          "odds_multiplier": 1.6346617398524563,
+          "coef": 0.4914358960047678,
+          "exposure_share": 0.04208126036484246
+        }
+      },
+      "n_clusters": 100,
+      "n_boot": 40
+    },
+    "OJ": {
+      "dataset": "OJ",
+      "n_obs": 1070,
+      "n_alternatives": 2,
+      "alternatives": [
+        "CH",
+        "MM"
+      ],
+      "elasticity": -1.7143519794610909,
+      "se": 0.6023126751335988,
+      "ci_low": -2.332837457698368,
+      "ci_high": -0.5837073011014187,
+      "price_coef_scaled": -3.540733275517027,
+      "loglik": -666.821579038738,
+      "shares": {
+        "CH": 0.6102793886487046,
+        "MM": 0.3897206113512965
+      },
+      "promo": {
+        "special": {
+          "odds_multiplier": 1.6504553313693804,
+          "coef": 0.5010512082486571,
+          "exposure_share": 0.15467289719626168
+        }
+      },
+      "n_clusters": 5,
+      "n_boot": 40
+    }
+  },
+  "categories": {
+    "Biscuits & Snacks": {
+      "elasticity": -1.7533536413528488,
+      "se": 0.3940734461802193,
+      "sources": [
+        "Cracker"
+      ]
+    },
+    "Dairy & Related": {
+      "elasticity": -2.216389693070484,
+      "se": 0.2737577387510458,
+      "sources": [
+        "Yogurt"
+      ]
+    },
+    "Packaged Grocery": {
+      "elasticity": -3.39330376893717,
+      "se": 0.06767558533789288,
+      "sources": [
+        "Catsup",
+        "Ketchup",
+        "Tuna"
+      ]
+    },
+    "Beverages & Juices": {
+      "elasticity": -1.7143519794610909,
+      "se": 0.6023126751335988,
+      "sources": [
+        "OJ"
+      ]
+    },
+    "pooled": {
+      "elasticity": -2.2693497707053982,
+      "se": 0.3916154484692386,
+      "sources": [
+        "Cracker",
+        "Catsup",
+        "Ketchup",
+        "Tuna",
+        "Yogurt",
+        "OJ"
+      ],
+      "note": "unweighted mean of category estimates"
+    }
+  },
+  "note": "Brand-level own-price elasticity from household choice data (includes switching from rival brands)."
+}

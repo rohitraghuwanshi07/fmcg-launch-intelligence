@@ -1,0 +1,14 @@
+{
+  "mode": "demo_synthetic",
+  "name": "Synthetic FMCG demo dataset (SIMULATED)",
+  "generated_at": "2026-10-10T06:38:09.098542+00:00",
+  "seed": 42,
+  "panel_rows": 49489,
+  "transaction_rows": 95643,
+  "n_products": 72,
+  "start": "2023-01-02",
+  "end": "2024-12-23",
+  "currency": "INR",
+  "has_launch_labels": false,
+  "note": "All values are simulated. Not observed market data."
+}

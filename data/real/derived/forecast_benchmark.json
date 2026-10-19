@@ -1,0 +1,444 @@
+{
+  "by_horizon": [
+    {
+      "h": 1,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.02202126764750196,
+      "GBM (global)|MASE": 0.7482255775534059,
+      "GBM (global)|sMAPE": 0.0364011043686265,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.07946295724606783,
+      "Naive|MASE": 2.296347723798035,
+      "Naive|sMAPE": 0.09578306142336139,
+      "12-m average|WAPE": 0.06688537625048495,
+      "12-m average|MASE": 2.0051259093100686,
+      "12-m average|sMAPE": 0.08831556139991603
+    },
+    {
+      "h": 2,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.026318138779308282,
+      "GBM (global)|MASE": 0.9168194048533451,
+      "GBM (global)|sMAPE": 0.044922770320555604,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.09191223424024479,
+      "Naive|MASE": 2.7427771202500595,
+      "Naive|sMAPE": 0.11640910996257055,
+      "12-m average|WAPE": 0.06800009108792235,
+      "12-m average|MASE": 2.044463758840086,
+      "12-m average|sMAPE": 0.09042729535051114
+    },
+    {
+      "h": 3,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.027538647244752197,
+      "GBM (global)|MASE": 0.9684399249549259,
+      "GBM (global)|sMAPE": 0.047554943362234196,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.10200905052349556,
+      "Naive|MASE": 3.0120415509855203,
+      "Naive|sMAPE": 0.12892291085275454,
+      "12-m average|WAPE": 0.06912423925984693,
+      "12-m average|MASE": 2.0817819922493745,
+      "12-m average|sMAPE": 0.09244374563310348
+    },
+    {
+      "h": 4,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.02903762315408175,
+      "GBM (global)|MASE": 1.0276153485374566,
+      "GBM (global)|sMAPE": 0.050655166892334486,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.10588345253086238,
+      "Naive|MASE": 3.1071510304455154,
+      "Naive|sMAPE": 0.13331802503738338,
+      "12-m average|WAPE": 0.07036478961036685,
+      "12-m average|MASE": 2.1210839375697566,
+      "12-m average|sMAPE": 0.09451928384011135
+    },
+    {
+      "h": 5,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.030657350823991875,
+      "GBM (global)|MASE": 1.0826721944765398,
+      "GBM (global)|sMAPE": 0.053321505024209515,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.10565839961113914,
+      "Naive|MASE": 3.09137088391788,
+      "Naive|sMAPE": 0.1333095320007706,
+      "12-m average|WAPE": 0.07175387507622835,
+      "12-m average|MASE": 2.1622887100665307,
+      "12-m average|sMAPE": 0.09664649176636043
+    },
+    {
+      "h": 6,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.03293129877616244,
+      "GBM (global)|MASE": 1.1520838774953246,
+      "GBM (global)|sMAPE": 0.056674260683050225,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.10756142414061594,
+      "Naive|MASE": 3.08486665556426,
+      "Naive|sMAPE": 0.1329514766461353,
+      "12-m average|WAPE": 0.07331932264707125,
+      "12-m average|MASE": 2.206489694995464,
+      "12-m average|sMAPE": 0.09887212734267033
+    },
+    {
+      "h": 7,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.03228644133703236,
+      "GBM (global)|MASE": 1.1452374167122203,
+      "GBM (global)|sMAPE": 0.05710307711442762,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.11142592477616921,
+      "Naive|MASE": 3.297533254495205,
+      "Naive|sMAPE": 0.14200368121984586,
+      "12-m average|WAPE": 0.07499319644355054,
+      "12-m average|MASE": 2.253002974825442,
+      "12-m average|sMAPE": 0.10120037268169502
+    },
+    {
+      "h": 8,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.03599481067133433,
+      "GBM (global)|MASE": 1.2685099777321573,
+      "GBM (global)|sMAPE": 0.06262724975458649,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.11345546683437453,
+      "Naive|MASE": 3.386544944100451,
+      "Naive|sMAPE": 0.14643609947695085,
+      "12-m average|WAPE": 0.07673057725998599,
+      "12-m average|MASE": 2.2998703541603844,
+      "12-m average|sMAPE": 0.10350265752251231
+    },
+    {
+      "h": 9,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.03463632809496534,
+      "GBM (global)|MASE": 1.2266615018623366,
+      "GBM (global)|sMAPE": 0.06127575278283244,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.11075043118800103,
+      "Naive|MASE": 3.337413724307333,
+      "Naive|sMAPE": 0.1443323096785869,
+      "12-m average|WAPE": 0.07843641945107667,
+      "12-m average|MASE": 2.3436140136760955,
+      "12-m average|sMAPE": 0.10566605189449675
+    },
+    {
+      "h": 10,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.0359188223563453,
+      "GBM (global)|MASE": 1.265272095167323,
+      "GBM (global)|sMAPE": 0.0630315040174098,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.10272654123462165,
+      "Naive|MASE": 3.1431409405447144,
+      "Naive|sMAPE": 0.13614646902659067,
+      "12-m average|WAPE": 0.08029863130839983,
+      "12-m average|MASE": 2.389786901300671,
+      "12-m average|sMAPE": 0.1078933775409427
+    },
+    {
+      "h": 11,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.036656662073689596,
+      "GBM (global)|MASE": 1.2891195996941438,
+      "GBM (global)|sMAPE": 0.06426362669791648,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.09112839955469657,
+      "Naive|MASE": 2.745885467144331,
+      "Naive|sMAPE": 0.1196055232133143,
+      "12-m average|WAPE": 0.08224375933072842,
+      "12-m average|MASE": 2.4373331453020026,
+      "12-m average|sMAPE": 0.11017986406453695
+    },
+    {
+      "h": 12,
+      "n": 6216,
+      "GBM (global)|WAPE": 0.03733417717013848,
+      "GBM (global)|MASE": 1.3254792848596009,
+      "GBM (global)|sMAPE": 0.06597598772124852,
+      "Seasonal naive|WAPE": 0.043700493738841224,
+      "Seasonal naive|MASE": 1.3426669177864152,
+      "Seasonal naive|sMAPE": 0.06675231171660971,
+      "Naive|WAPE": 0.043700493738841224,
+      "Naive|MASE": 1.3426669177864152,
+      "Naive|sMAPE": 0.06675231171660971,
+      "12-m average|WAPE": 0.08434761381830527,
+      "12-m average|MASE": 2.486912447288975,
+      "12-m average|sMAPE": 0.1125613588505268
+    }
+  ],
+  "baselines": {},
+  "conformal": {
+    "1": {
+      "h": 1,
+      "lo": -0.0717987595817311,
+      "hi": 0.06351049834613498,
+      "coverage": 0.8544079794079794,
+      "n_cal": 4452,
+      "n_test": 6216
+    },
+    "2": {
+      "h": 2,
+      "lo": -0.08785075343492732,
+      "hi": 0.07852748570420243,
+      "coverage": 0.8532818532818532,
+      "n_cal": 4452,
+      "n_test": 6216
+    },
+    "3": {
+      "h": 3,
+      "lo": -0.09890312235174914,
+      "hi": 0.08927372673187328,
+      "coverage": 0.8719433719433719,
+      "n_cal": 4452,
+      "n_test": 6216
+    },
+    "4": {
+      "h": 4,
+      "lo": -0.10723831421521668,
+      "hi": 0.09720223433432462,
+      "coverage": 0.8795045045045045,
+      "n_cal": 4450,
+      "n_test": 6216
+    },
+    "5": {
+      "h": 5,
+      "lo": -0.11624248140481264,
+      "hi": 0.10102728159804109,
+      "coverage": 0.8849742599742599,
+      "n_cal": 4448,
+      "n_test": 6216
+    },
+    "6": {
+      "h": 6,
+      "lo": -0.12376807121141109,
+      "hi": 0.10923572956169458,
+      "coverage": 0.8883526383526383,
+      "n_cal": 4446,
+      "n_test": 6216
+    },
+    "7": {
+      "h": 7,
+      "lo": -0.1288362608064686,
+      "hi": 0.11511080963800158,
+      "coverage": 0.8962355212355212,
+      "n_cal": 4444,
+      "n_test": 6216
+    },
+    "8": {
+      "h": 8,
+      "lo": -0.1394191886622007,
+      "hi": 0.11803948243105777,
+      "coverage": 0.8814350064350064,
+      "n_cal": 4442,
+      "n_test": 6216
+    },
+    "9": {
+      "h": 9,
+      "lo": -0.1405045795910338,
+      "hi": 0.11882515868473131,
+      "coverage": 0.8893178893178894,
+      "n_cal": 4440,
+      "n_test": 6216
+    },
+    "10": {
+      "h": 10,
+      "lo": -0.1450873717955523,
+      "hi": 0.12154301605347761,
+      "coverage": 0.8878700128700129,
+      "n_cal": 4440,
+      "n_test": 6216
+    },
+    "11": {
+      "h": 11,
+      "lo": -0.14655851340160453,
+      "hi": 0.12429973648966497,
+      "coverage": 0.8865830115830116,
+      "n_cal": 4440,
+      "n_test": 6216
+    },
+    "12": {
+      "h": 12,
+      "lo": -0.1538018800786638,
+      "hi": 0.1227116902963239,
+      "coverage": 0.8857786357786358,
+      "n_cal": 4440,
+      "n_test": 6216
+    }
+  },
+  "split": {
+    "train_end": "2012-12-01",
+    "cal_end": "2015-06-01",
+    "last": "2018-12-01"
+  },
+  "by_industry_h3": [
+    {
+      "industry": "Cafes, restaurants and catering services",
+      "gbm": 0.03428997671560865,
+      "snaive": 0.05726489474652502
+    },
+    {
+      "industry": "Cafes, restaurants and takeaway food services",
+      "gbm": 0.026243513197259243,
+      "snaive": 0.04877260729426417
+    },
+    {
+      "industry": "Clothing retailing",
+      "gbm": 0.038680189195062296,
+      "snaive": 0.05685736745567298
+    },
+    {
+      "industry": "Clothing, footwear and personal accessory retailing",
+      "gbm": 0.03458809950234974,
+      "snaive": 0.048010859961498675
+    },
+    {
+      "industry": "Department stores",
+      "gbm": 0.032282857532759404,
+      "snaive": 0.034122270957567404
+    },
+    {
+      "industry": "Electrical and electronic goods retailing",
+      "gbm": 0.04399288377588396,
+      "snaive": 0.04493021843415174
+    },
+    {
+      "industry": "Food retailing",
+      "gbm": 0.014010498288707311,
+      "snaive": 0.032151349656379856
+    },
+    {
+      "industry": "Footwear and other personal accessory retailing",
+      "gbm": 0.05142983799965135,
+      "snaive": 0.05460579029844928
+    },
+    {
+      "industry": "Furniture, floor coverings, houseware and textile goods retailing",
+      "gbm": 0.042950444563463,
+      "snaive": 0.06023546067877845
+    },
+    {
+      "industry": "Hardware, building and garden supplies retailing",
+      "gbm": 0.05492363699907126,
+      "snaive": 0.059103228137798114
+    },
+    {
+      "industry": "Household goods retailing",
+      "gbm": 0.029378219183263537,
+      "snaive": 0.04157798331157239
+    },
+    {
+      "industry": "Liquor retailing",
+      "gbm": 0.03130216789131462,
+      "snaive": 0.04169935572831227
+    },
+    {
+      "industry": "Newspaper and book retailing",
+      "gbm": 0.0711852279049929,
+      "snaive": 0.1121333054553058
+    },
+    {
+      "industry": "Other recreational goods retailing",
+      "gbm": 0.07640995441326676,
+      "snaive": 0.0763151844386105
+    },
+    {
+      "industry": "Other retailing",
+      "gbm": 0.028587028773886605,
+      "snaive": 0.04316272215961097
+    },
+    {
+      "industry": "Other retailing n.e.c.",
+      "gbm": 0.05365933756319418,
+      "snaive": 0.07063214904612157
+    },
+    {
+      "industry": "Other specialised food retailing",
+      "gbm": 0.03867550390439562,
+      "snaive": 0.05904974918237879
+    },
+    {
+      "industry": "Pharmaceutical, cosmetic and toiletry goods retailing",
+      "gbm": 0.033403721673370544,
+      "snaive": 0.05832798767026285
+    },
+    {
+      "industry": "Supermarket and grocery stores",
+      "gbm": 0.013633445397672504,
+      "snaive": 0.03213011044368613
+    },
+    {
+      "industry": "Takeaway food services",
+      "gbm": 0.032416142397531024,
+      "snaive": 0.0557889047966701
+    }
+  ],
+  "importance_h3": {
+    "ind_code": 1731,
+    "level12": 920,
+    "state_code": 872,
+    "vol12": 843,
+    "lag0": 725,
+    "yoy": 711,
+    "lag5": 681,
+    "lag3": 643,
+    "lag11": 558,
+    "lag23": 531,
+    "mom": 526,
+    "lag12": 525
+  },
+  "n_series": 152,
+  "n_test_origins_h3": 42,
+  "stat_benchmarks": [
+    {
+      "model": "GBM (global)",
+      "mean": 0.0644671033808624,
+      "median": 0.04677561821144054,
+      "count": 33
+    },
+    {
+      "model": "Holt-Winters",
+      "mean": 0.0692861406919627,
+      "median": 0.057042209718311296,
+      "count": 33
+    },
+    {
+      "model": "SARIMA",
+      "mean": 0.06834253375117262,
+      "median": 0.05138488188233715,
+      "count": 33
+    },
+    {
+      "model": "Seasonal naive",
+      "mean": 0.06942033424227934,
+      "median": 0.056377079482439925,
+      "count": 33
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "elasticity": {
+    "Beverages & Juices": -2.172729285821845,
+    "Biscuits & Snacks": -1.8219869625808593,
+    "Dairy & Related": -1.2629702353229808,
+    "Home Care": -1.543003882339343,
+    "Packaged Grocery": -1.6858252083454663,
+    "Personal Care": -1.376871873009256,
+    "pooled": -1.6151005002105012
+  },
+  "table": [
+    {
+      "scope": "All categories (pooled)",
+      "elasticity": -1.6151005002105012,
+      "se": 0.05143921560413706,
+      "ci_low": -1.71592136279461,
+      "ci_high": -1.5142796376263925,
+      "n_obs": 38725,
+      "n_products": 72,
+      "residual_price_sd": 0.08163173954006049,
+      "promo_coef": 0.19300348541502993,
+      "note": "Observational estimate: identified from within-product, within-store price variation after controlling for promotions and week fixed effects. Prices were not randomised, so this is an association / scenario input, not a proven causal elasticity."
+    },
+    {
+      "scope": "Beverages & Juices",
+      "elasticity": -2.172729285821845,
+      "se": 0.046249372483881966,
+      "ci_low": -2.2633780558902536,
+      "ci_high": -2.082080515753437,
+      "n_obs": 6665,
+      "n_products": 12,
+      "residual_price_sd": 0.08112369077939936,
+      "promo_coef": 0.2631959927545695,
+      "note": ""
+    },
+    {
+      "scope": "Biscuits & Snacks",
+      "elasticity": -1.8219869625808593,
+      "se": 0.07381851266161774,
+      "ci_low": -1.9666712473976302,
+      "ci_high": -1.6773026777640885,
+      "n_obs": 5956,
+      "n_products": 12,
+      "residual_price_sd": 0.07949846645152069,
+      "promo_coef": 0.2492850604659883,
+      "note": ""
+    },
+    {
+      "scope": "Dairy & Related",
+      "elasticity": -1.2629702353229808,
+      "se": 0.06483170845477092,
+      "ci_low": -1.3900403838943318,
+      "ci_high": -1.1359000867516298,
+      "n_obs": 6382,
+      "n_products": 12,
+      "residual_price_sd": 0.08017360592970736,
+      "promo_coef": 0.11231649766943703,
+      "note": ""
+    },
+    {
+      "scope": "Home Care",
+      "elasticity": -1.543003882339343,
+      "se": 0.12001952255179313,
+      "ci_low": -1.7782421465408575,
+      "ci_high": -1.3077656181378285,
+      "n_obs": 5450,
+      "n_products": 12,
+      "residual_price_sd": 0.08262042204349017,
+      "promo_coef": 0.18906908324478047,
+      "note": ""
+    },
+    {
+      "scope": "Packaged Grocery",
+      "elasticity": -1.6858252083454663,
+      "se": 0.07059019377113455,
+      "ci_low": -1.8241819881368901,
+      "ci_high": -1.5474684285540425,
+      "n_obs": 7183,
+      "n_products": 12,
+      "residual_price_sd": 0.08248569214531484,
+      "promo_coef": 0.19262757873500144,
+      "note": ""
+    },
+    {
+      "scope": "Personal Care",
+      "elasticity": -1.376871873009256,
+      "se": 0.05104127239015763,
+      "ci_low": -1.476912766893965,
+      "ci_high": -1.276830979124547,
+      "n_obs": 7089,
+      "n_products": 12,
+      "residual_price_sd": 0.07779656796195027,
+      "promo_coef": 0.12095172356588398,
+      "note": ""
+    }
+  ],
+  "ratio_range": [
+    0.7300911515050135,
+    1.0990107256090407
+  ],
+  "promo": {
+    "log_uplift": 0.5496188404340162,
+    "uplift_pct": 73.25924977891347,
+    "ci_low_pct": 67.2922668233537,
+    "ci_high_pct": 79.43906316751136,
+    "n_obs": 49399,
+    "caveat": "Observational association (promotions were not randomised; includes the price effect of the discount)."
+  },
+  "demo": true
+}

@@ -1,0 +1,51 @@
+{
+  "Cracker": {
+    "package": "Ecdat",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/Ecdat/Cracker.csv",
+    "sha256": "d87ba2a9aad203ee19414f2b7eabf7aee1be0732883ee6ad74fb07041dd79636",
+    "rows": 3292,
+    "description": "US supermarket scanner panel: cracker brand choice with prices, displays, features"
+  },
+  "Catsup": {
+    "package": "Ecdat",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/Ecdat/Catsup.csv",
+    "sha256": "ba79575c3b7709b7476b242cd4eeee57f455a7921221f01dad635b14d37473ac",
+    "rows": 2798,
+    "description": "US supermarket scanner panel: ketchup brand/size choice with prices, displays, features"
+  },
+  "Ketchup": {
+    "package": "Ecdat",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/Ecdat/Ketchup.csv",
+    "sha256": "85f068c8e455a56fe06aa9e75affebd8c65de00edffe55dcfebb737441d9702c",
+    "rows": 4956,
+    "description": "US supermarket scanner panel: ketchup brand choice with prices"
+  },
+  "Tuna": {
+    "package": "Ecdat",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/Ecdat/Tuna.csv",
+    "sha256": "ff7d413a61736bb9db04eb1e5249a99636393dacda025154c9dfbf7c634168c2",
+    "rows": 13705,
+    "description": "US supermarket scanner panel: canned tuna brand choice with prices"
+  },
+  "Yogurt": {
+    "package": "Ecdat",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/Ecdat/Yogurt.csv",
+    "sha256": "522552372b313d537a7c8b9d7acf28a3d9a6ba8950c69a0dd78d86f0e164cf0d",
+    "rows": 2412,
+    "description": "US supermarket scanner panel: yogurt brand choice with prices and features"
+  },
+  "OJ": {
+    "package": "ISLR",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/ISLR/OJ.csv",
+    "sha256": "f3229b1c5574f339bdbc95e517efcf8b5422c843597eb05649057afc095559c2",
+    "rows": 1070,
+    "description": "Orange juice purchases (Citrus Hill vs Minute Maid) with store prices and specials"
+  },
+  "aus_retail": {
+    "package": "tsibbledata",
+    "url": "https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/tsibbledata/aus_retail.csv",
+    "sha256": "82e57a40d6ad5853fb7ecd69b11c1f7197fbf044700e97697b068a222dc5140f",
+    "rows": 64532,
+    "description": "Australian Bureau of Statistics monthly retail turnover by state and industry (1982-2018)"
+  }
+}
